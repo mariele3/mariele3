@@ -1,5 +1,11 @@
-### Hi there 👋
+# sobre mim 
+ - Olá,eu sou a Mariele Alves;
+ - Estou interessada em cursos;
+ - Atualmente estou aprendendo SCRATCH e JAVASCRIPT;
+ - Estou disponível para colaborar e ajudar meus colegas;
+- Instagram:@_mariele.alves;
 
+ 
 <!--
 **mariele3/mariele3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
